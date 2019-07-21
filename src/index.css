@@ -1,0 +1,37 @@
+.content {
+  background: black;
+  color: white;
+}
+.section {
+  width: 50%;
+  height: 90%;
+  float: left;
+}
+
+.yr {
+  background-color: blue;
+}
+
+.other {
+  background-color: chocolate;
+}
+
+#clock {
+  text-align: right!;
+}
+
+table {
+  text-align: center;
+  margin-right: 2px;
+  color: white;
+}
+
+.line-number {
+  display: block;
+  border-radius: 8px;
+  padding: 2px;
+}
+
+.transport-icon {
+  height: 28px;
+}
